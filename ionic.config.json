@@ -1,0 +1,8 @@
+{
+  "name": "radio",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "55ae1aba"
+}
